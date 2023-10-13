@@ -1,0 +1,5 @@
+[
+  {"dns_ip": "10.11.10.1","hostname": "dns-01","domain": "www.baidu.com"},
+  {"dns_ip": "10.11.10.1","hostname": "dns-01","domain": "www.360.com"},
+  {"dns_ip": "10.11.10.2","hostname": "dns-01","domain": "www.baidu.com"}
+]
