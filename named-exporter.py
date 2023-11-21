@@ -27,6 +27,7 @@ def get_domain(doman):
         return False
 
 config_list = get_json(config_path)
+domain_status.clear()
 for domain in config_list:
     result = get_domain(domain['domain'])
     if result:
